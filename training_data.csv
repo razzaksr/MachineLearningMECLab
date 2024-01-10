@@ -1,0 +1,4 @@
+Sky,Temperature,Humidity,Windy,PlayTennis
+Sunny,warm,normal,FALSE,Yes
+Sunny,warm,high,FALSE,Yes
+Rainy,Cold,high,TRUE,No
